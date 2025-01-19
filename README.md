@@ -3,7 +3,7 @@ Develop a compact wearable device tailored for individuals with Alzheimer's  dis
 Integrate tracking capabilities to monitor daily activities, including food intake and  medication timings.
 Implement reminder and alert features to support users in better self-management  and reduce cognitive load.
 Enhance	the	independence	and	overall	quality	of	life	for	individuals	with  Alzheimer's through the wearable device.
-Assist caregivers in managing care responsibilities more effectively by providing  support through the wearable technology.
+Assist caregivers in managing care responsibilities more effectively by providing  support through wearable technology.
 
 
 <!--
@@ -87,10 +87,8 @@ This project is an IoT-based solution designed to monitor and display real-time 
 - Utilize audio alerts for notifications or alarms.
 
 ## Contributing
-Contributions are welcome! Feel free to fork this repository, open issues, or submit pull requests to enhance functionality.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+Contributions are welcome!!
+Please feel free to fix this repository, open issues, or submit pull requests to ensure it's functional.
 
 ## Acknowledgments
 - Special thanks to the creators of the libraries used in this project.
