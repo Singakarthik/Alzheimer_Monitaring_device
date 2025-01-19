@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# IoT and GPS-Based Data Monitoring System
+# IoT and GPS-Based Alzheimer's Disease Patient Monitoring System
 
 This project is an IoT-based solution designed to monitor and display real-time GPS data while integrating with cloud platforms like ThingSpeak for data visualization and storage. The project leverages the ESP32 microcontroller, an OLED display, audio processing capabilities, and GPS modules to provide a comprehensive monitoring system.
 
